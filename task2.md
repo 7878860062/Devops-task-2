@@ -61,4 +61,7 @@ add email plugin
 
 <img width="960" alt="html" src="https://user-images.githubusercontent.com/48556545/85134230-cb3fa200-b259-11ea-96f4-23e2f6a64deb.PNG">
 
+# Using the build pipeline plugin I've created a project overview of the jobs so that it would be easy to manage the jobs which looks like :
+
+## Thanku for  reading/check this
 
