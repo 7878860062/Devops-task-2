@@ -36,13 +36,26 @@
 
 # Job2 : By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code ( eg. If code is of  PHP, then Jenkins should start the container that has PHP already installed ).
 
-<img width="960" alt="job21" src="https://user-images.githubusercontent.com/48556545/85121157-e9010d00-b241-11ea-9a2e-c89e5edc51a2.PNG">
+[ JOB 2 : This job triggers as soon as the JOB1 is built successfully and this job checks the code and respectively launches the respective interpreter, copies the code to that interpreter container and deploys the code to the webserver. ]
+<img width="960" alt="j2n" src="https://user-images.githubusercontent.com/48556545/85134207-bebb4980-b259-11ea-87cd-b7fd50baabf9.PNG">
 
+<
 
 
 # Job3 : Test your app if it  is working or not.
 <img width="960" alt="j3" src="https://user-images.githubusercontent.com/48556545/85123043-26b36500-b245-11ea-8390-0fbdc177f7c8.PNG">
 
 <img width="960" alt="job 32" src="https://user-images.githubusercontent.com/48556545/85123076-2fa43680-b245-11ea-8c9c-615fb913365d.PNG">
+
+
+
+
+# JOB4 : After all the above mentioned jobs are run successfully then this job triggers and keeps on checking whether the interpreter container is running and if in case the container stops it starts the container again. Finally it acts as a monitoring job to monitor the interpreter container.
+<img width="960" alt="jb4" src="https://user-images.githubusercontent.com/48556545/85134236-cda1fc00-b259-11ea-87f0-1ea313fbef67.PNG">
+ last image
+ 
+ With all the jobs successfully run and no errors in the code , the port 80 of my apache webserver shows this output which is the php code in my github:
+
+<img width="960" alt="html" src="https://user-images.githubusercontent.com/48556545/85134230-cb3fa200-b259-11ea-96f4-23e2f6a64deb.PNG">
 
 
