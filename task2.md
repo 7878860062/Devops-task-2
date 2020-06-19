@@ -20,7 +20,8 @@
 
 ## Screenshot 
 
-
+# cmd for creating docker file
+<img width="673" alt="creatingdf" src="https://user-images.githubusercontent.com/48556545/85122994-1602ef00-b245-11ea-97a0-df72ff732643.PNG">
 
 <img width="960" alt="j11" src="https://user-images.githubusercontent.com/48556545/85121193-fb7b4680-b241-11ea-8832-32632c8f4323.PNG">
 
@@ -37,5 +38,11 @@
 
 <img width="960" alt="job21" src="https://user-images.githubusercontent.com/48556545/85121157-e9010d00-b241-11ea-9a2e-c89e5edc51a2.PNG">
 
+
+
+# Job3 : Test your app if it  is working or not.
+<img width="960" alt="j3" src="https://user-images.githubusercontent.com/48556545/85123043-26b36500-b245-11ea-8390-0fbdc177f7c8.PNG">
+
+<img width="960" alt="job 32" src="https://user-images.githubusercontent.com/48556545/85123076-2fa43680-b245-11ea-8c9c-615fb913365d.PNG">
 
 
