@@ -25,6 +25,9 @@
 
 <img width="960" alt="j11" src="https://user-images.githubusercontent.com/48556545/85121193-fb7b4680-b241-11ea-8832-32632c8f4323.PNG">
 
+add email plugin
+<img width="960" alt="initial" src="https://user-images.githubusercontent.com/48556545/85135577-ec08f700-b25b-11ea-9ed9-d14dff12cc07.PNG">
+
 
 # Job1 : Pull  the Github repo automatically when some developers push repo to Github.
 
